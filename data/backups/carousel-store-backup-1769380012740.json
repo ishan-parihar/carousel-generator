@@ -1,0 +1,68 @@
+{
+  "carousel": {
+    "id": "sample-carousel",
+    "name": "Sample Carousel",
+    "pillar": "marketing",
+    "slides": [
+      {
+        "id": "slide-1",
+        "type": "title",
+        "content": {
+          "headline": {
+            "text": "Welcome to Our Platform"
+          },
+          "subtext": {
+            "text": "Discover the future of content creation"
+          }
+        },
+        "order": 0
+      },
+      {
+        "id": "slide-2",
+        "type": "content",
+        "content": {
+          "headline": {
+            "text": "The Problem"
+          },
+          "subtext": {
+            "text": "Most people struggle with creating engaging content"
+          }
+        },
+        "order": 1
+      },
+      {
+        "id": "slide-3",
+        "type": "bullets",
+        "content": {
+          "headline": {
+            "text": "Our Solution"
+          },
+          "bullets": {
+            "text": [
+              "Feature 1",
+              "Feature 2",
+              "Feature 3"
+            ]
+          }
+        },
+        "order": 2
+      },
+      {
+        "id": "slide-4",
+        "type": "cta",
+        "content": {
+          "headline": {
+            "text": "Get Started Today"
+          },
+          "ctaText": {
+            "text": "Sign Up Now"
+          }
+        },
+        "order": 3
+      }
+    ],
+    "carouselBackgroundPack": "default",
+    "createdAt": "2026-01-25T22:26:52.739Z",
+    "updatedAt": "2026-01-25T22:26:52.739Z"
+  }
+}

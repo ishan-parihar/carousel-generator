@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-01-25T22:26:02.965Z",
+  "templates": [
+    {
+      "id": "titan-arc",
+      "name": "Titan Arc",
+      "description": "A 10-slide story arc for maximum engagement and authority",
+      "category": "general",
+      "tags": [
+        "official",
+        "migrated",
+        "arc",
+        "general"
+      ],
+      "difficulty": "beginner",
+      "estimatedTime": "20 minutes",
+      "slideCount": 10,
+      "contentFieldCount": 21
+    },
+    {
+      "id": "quick-arc",
+      "name": "Quick Arc",
+      "description": "A 5-slide condensed version for quick consumption",
+      "category": "general",
+      "tags": [
+        "official",
+        "migrated",
+        "arc",
+        "general"
+      ],
+      "difficulty": "beginner",
+      "estimatedTime": "10 minutes",
+      "slideCount": 5,
+      "contentFieldCount": 10
+    }
+  ]
+}

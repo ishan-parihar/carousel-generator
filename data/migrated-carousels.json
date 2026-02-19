@@ -1,0 +1,52 @@
+{
+  "id": "carousel-1769380012740-g3ylwksy1",
+  "templateId": "template-quick-arc",
+  "templateVersion": "1.0.0",
+  "name": "Sample Carousel",
+  "content": {
+    "slides": [
+      {
+        "slideNumber": 1,
+        "contentFields": {
+          "headline": "Welcome to Our Platform",
+          "subtext": "Discover the future of content creation"
+        }
+      },
+      {
+        "slideNumber": 2,
+        "contentFields": {
+          "headline": "The Problem",
+          "subtext": "Most people struggle with creating engaging content"
+        }
+      },
+      {
+        "slideNumber": 3,
+        "contentFields": {
+          "headline": "Our Solution",
+          "bullets": [
+            "Feature 1",
+            "Feature 2",
+            "Feature 3"
+          ]
+        }
+      },
+      {
+        "slideNumber": 4,
+        "contentFields": {
+          "headline": "Get Started Today",
+          "cta": "Sign Up Now"
+        }
+      }
+    ]
+  },
+  "settings": {
+    "pillar": "marketing"
+  },
+  "exportSettings": {
+    "format": "png",
+    "quality": 1,
+    "pixelRatio": 2
+  },
+  "createdAt": "2026-01-25T22:26:52.740Z",
+  "updatedAt": "2026-01-25T22:26:52.740Z"
+}

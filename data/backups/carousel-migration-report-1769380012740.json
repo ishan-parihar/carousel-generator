@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-01-25T22:26:52.740Z",
+  "original": {
+    "carouselId": "sample-carousel",
+    "carouselName": "Sample Carousel",
+    "pillar": "marketing",
+    "slideCount": 4
+  },
+  "migrated": {
+    "carouselId": "carousel-1769380012740-g3ylwksy1",
+    "templateId": "template-quick-arc",
+    "templateVersion": "1.0.0",
+    "slideCount": 4,
+    "contentFieldCount": 8
+  },
+  "statistics": {
+    "originalSlideCount": 4,
+    "migratedSlideCount": 4,
+    "contentFieldsExtracted": 8,
+    "avgFieldsPerSlide": 2,
+    "warningsCount": 0
+  },
+  "validation": {
+    "isValid": true,
+    "errors": [],
+    "warnings": []
+  }
+}

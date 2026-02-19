@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-01-25T22:26:02.965Z",
+  "summary": {
+    "totalTemplates": 2,
+    "totalSlides": 15,
+    "totalContentFields": 31,
+    "totalElements": 46,
+    "totalWarnings": 0
+  },
+  "results": [
+    {
+      "templateId": "titan-arc",
+      "templateName": "Titan Arc",
+      "slideCount": 10,
+      "contentFieldCount": 21,
+      "elementCount": 31,
+      "warnings": []
+    },
+    {
+      "templateId": "quick-arc",
+      "templateName": "Quick Arc",
+      "slideCount": 5,
+      "contentFieldCount": 10,
+      "elementCount": 15,
+      "warnings": []
+    }
+  ]
+}

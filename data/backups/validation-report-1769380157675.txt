@@ -1,0 +1,47 @@
+
+============================================================
+MIGRATION VALIDATION SUMMARY
+============================================================
+
+Templates:
+  Total: 2
+  Valid: 2
+  Invalid: 0
+  Success rate: 100.00%
+
+Carousels:
+  Total: 1
+  Valid: 1
+  Invalid: 0
+  Success rate: 100.00%
+
+Overall:
+  Total items: 3
+  Invalid items: 0
+  Overall success rate: 100.00%
+
+✓ All validations passed! Migration was successful.
+
+============================================================
+
+
+
+DETAILED RESULTS
+============================================================
+
+
+Template Details:
+
+
+Quick Arc (quick-arc)
+  Status: ✓ Valid
+
+Titan Arc (titan-arc)
+  Status: ✓ Valid
+
+
+Carousel Details:
+
+
+Sample Carousel (carousel-1769380012740-g3ylwksy1)
+  Status: ✓ Valid
